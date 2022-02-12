@@ -9,7 +9,7 @@ https://ieeexplore.ieee.org/abstract/document/8765236
 #### The package contains the following three files.
 
 ### 1. FullDatasetFeatures.py
-It contains the code to extract features from the overall dataset. 
+It contains the code to extract features from the overall dataset.   
 
 ### 2. LSTM.py
 It contains code to train the extracted features using Bi-directional LSTM. Splitting the code into train, test and validation is already included in this code.
